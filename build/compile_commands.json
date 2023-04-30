@@ -1,0 +1,44 @@
+[
+  {
+    "directory": "/Users/bailycase/Developer/side-projects/cpp-playground/build",
+    "command": "c++ -Iplayground.p -I. -I.. -I../include -I../lib/bgfx/include -I../lib/imgui -I../lib/bx/include -I../lib/entt -I/opt/homebrew/Cellar/glfw/3.3.8/include -fcolor-diagnostics -Wall -Winvalid-pch -std=c++20 -O0 -g -DBX_CONFIG_DEBUG=1 -MD -MQ playground.p/src_main.cpp.o -MF playground.p/src_main.cpp.o.d -o playground.p/src_main.cpp.o -c ../src/main.cpp",
+    "file": "../src/main.cpp",
+    "output": "playground.p/src_main.cpp.o"
+  },
+  {
+    "directory": "/Users/bailycase/Developer/side-projects/cpp-playground/build",
+    "command": "c++ -Iplayground.p -I. -I.. -I../include -I../lib/bgfx/include -I../lib/imgui -I../lib/bx/include -I../lib/entt -I/opt/homebrew/Cellar/glfw/3.3.8/include -fcolor-diagnostics -Wall -Winvalid-pch -std=c++20 -O0 -g -DBX_CONFIG_DEBUG=1 -MD -MQ playground.p/lib_imgui_imgui.cpp.o -MF playground.p/lib_imgui_imgui.cpp.o.d -o playground.p/lib_imgui_imgui.cpp.o -c ../lib/imgui/imgui.cpp",
+    "file": "../lib/imgui/imgui.cpp",
+    "output": "playground.p/lib_imgui_imgui.cpp.o"
+  },
+  {
+    "directory": "/Users/bailycase/Developer/side-projects/cpp-playground/build",
+    "command": "c++ -Iplayground.p -I. -I.. -I../include -I../lib/bgfx/include -I../lib/imgui -I../lib/bx/include -I../lib/entt -I/opt/homebrew/Cellar/glfw/3.3.8/include -fcolor-diagnostics -Wall -Winvalid-pch -std=c++20 -O0 -g -DBX_CONFIG_DEBUG=1 -MD -MQ playground.p/lib_imgui_imgui_tables.cpp.o -MF playground.p/lib_imgui_imgui_tables.cpp.o.d -o playground.p/lib_imgui_imgui_tables.cpp.o -c ../lib/imgui/imgui_tables.cpp",
+    "file": "../lib/imgui/imgui_tables.cpp",
+    "output": "playground.p/lib_imgui_imgui_tables.cpp.o"
+  },
+  {
+    "directory": "/Users/bailycase/Developer/side-projects/cpp-playground/build",
+    "command": "c++ -Iplayground.p -I. -I.. -I../include -I../lib/bgfx/include -I../lib/imgui -I../lib/bx/include -I../lib/entt -I/opt/homebrew/Cellar/glfw/3.3.8/include -fcolor-diagnostics -Wall -Winvalid-pch -std=c++20 -O0 -g -DBX_CONFIG_DEBUG=1 -MD -MQ playground.p/lib_imgui_imgui_widgets.cpp.o -MF playground.p/lib_imgui_imgui_widgets.cpp.o.d -o playground.p/lib_imgui_imgui_widgets.cpp.o -c ../lib/imgui/imgui_widgets.cpp",
+    "file": "../lib/imgui/imgui_widgets.cpp",
+    "output": "playground.p/lib_imgui_imgui_widgets.cpp.o"
+  },
+  {
+    "directory": "/Users/bailycase/Developer/side-projects/cpp-playground/build",
+    "command": "c++ -Iplayground.p -I. -I.. -I../include -I../lib/bgfx/include -I../lib/imgui -I../lib/bx/include -I../lib/entt -I/opt/homebrew/Cellar/glfw/3.3.8/include -fcolor-diagnostics -Wall -Winvalid-pch -std=c++20 -O0 -g -DBX_CONFIG_DEBUG=1 -MD -MQ playground.p/lib_imgui_imgui_draw.cpp.o -MF playground.p/lib_imgui_imgui_draw.cpp.o.d -o playground.p/lib_imgui_imgui_draw.cpp.o -c ../lib/imgui/imgui_draw.cpp",
+    "file": "../lib/imgui/imgui_draw.cpp",
+    "output": "playground.p/lib_imgui_imgui_draw.cpp.o"
+  },
+  {
+    "directory": "/Users/bailycase/Developer/side-projects/cpp-playground/build",
+    "command": "c++ -Iplayground.p -I. -I.. -I../include -I../lib/bgfx/include -I../lib/imgui -I../lib/bx/include -I../lib/entt -I/opt/homebrew/Cellar/glfw/3.3.8/include -fcolor-diagnostics -Wall -Winvalid-pch -std=c++20 -O0 -g -DBX_CONFIG_DEBUG=1 -MD -MQ playground.p/lib_imgui_imgui_impl_glfw.cpp.o -MF playground.p/lib_imgui_imgui_impl_glfw.cpp.o.d -o playground.p/lib_imgui_imgui_impl_glfw.cpp.o -c ../lib/imgui/imgui_impl_glfw.cpp",
+    "file": "../lib/imgui/imgui_impl_glfw.cpp",
+    "output": "playground.p/lib_imgui_imgui_impl_glfw.cpp.o"
+  },
+  {
+    "directory": "/Users/bailycase/Developer/side-projects/cpp-playground/build",
+    "command": "c++ -Iplayground.p -I. -I.. -I../include -I../lib/bgfx/include -I../lib/imgui -I../lib/bx/include -I../lib/entt -I/opt/homebrew/Cellar/glfw/3.3.8/include -fcolor-diagnostics -Wall -Winvalid-pch -std=c++20 -O0 -g -DBX_CONFIG_DEBUG=1 -MD -MQ playground.p/lib_imgui_imgui_impl_bgfx.cpp.o -MF playground.p/lib_imgui_imgui_impl_bgfx.cpp.o.d -o playground.p/lib_imgui_imgui_impl_bgfx.cpp.o -c ../lib/imgui/imgui_impl_bgfx.cpp",
+    "file": "../lib/imgui/imgui_impl_bgfx.cpp",
+    "output": "playground.p/lib_imgui_imgui_impl_bgfx.cpp.o"
+  }
+]

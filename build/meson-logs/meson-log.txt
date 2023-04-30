@@ -1,0 +1,48 @@
+Build started at 2023-04-28T23:07:23.661724
+Main binary: /opt/homebrew/opt/python@3.11/bin/python3.11
+Build Options: 
+Python system: Darwin
+The Meson build system
+Version: 1.1.0
+Source dir: /Users/bailycase/Developer/side-projects/cpp-playground
+Build dir: /Users/bailycase/Developer/side-projects/cpp-playground/build
+Build type: native build
+Project name: playground
+Project version: 1.0.0
+C++ compiler for the host machine: c++ (clang 14.0.3 "Apple clang version 14.0.3 (clang-1403.0.22.14.1)")
+C++ linker for the host machine: c++ ld64 857.1
+C++ compiler for the build machine: c++ (clang 14.0.3 "Apple clang version 14.0.3 (clang-1403.0.22.14.1)")
+C++ linker for the build machine: c++ ld64 857.1
+Build machine cpu family: aarch64
+Build machine cpu: aarch64
+Host machine cpu family: aarch64
+Host machine cpu: aarch64
+Target machine cpu family: aarch64
+Target machine cpu: aarch64
+Dependency glfw3 found: YES 3.3.8 (cached)
+Build targets in project: 1
+
+Found ninja-1.11.1 at /opt/homebrew/bin/ninja
+Running compile:
+Working directory:  /var/folders/w0/jy7f1zv521d03g_z_y8qhtv40000gn/T/tmpdt37z2tm
+Command line:  c++ /var/folders/w0/jy7f1zv521d03g_z_y8qhtv40000gn/T/tmpdt37z2tm/testfile.cpp -o /var/folders/w0/jy7f1zv521d03g_z_y8qhtv40000gn/T/tmpdt37z2tm/output.obj -c -std=c++20 
+
+Code:
+ int i = static_cast<int>(0);
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler accepts -std=c++20: YES
+Running compile:
+Working directory:  /Users/bailycase/Developer/side-projects/cpp-playground/build/meson-private/tmplsjm6mw_
+Command line:  c++ /Users/bailycase/Developer/side-projects/cpp-playground/build/meson-private/tmplsjm6mw_/testfile.cpp -o /Users/bailycase/Developer/side-projects/cpp-playground/build/meson-private/tmplsjm6mw_/output.obj -c -O0 -fpermissive -Werror=implicit-function-declaration -Werror=unknown-warning-option -Werror=unused-command-line-argument -Werror=ignored-optimization-argument --print-search-dirs 
+
+Code:
+ 
+Compiler stdout:
+ programs: =/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+libraries: =/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.3
+
+Compiler stderr:
+ 
